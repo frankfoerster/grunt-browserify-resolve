@@ -1,6 +1,6 @@
 /*
  * grunt-browserify-resolve
- * https://github.com/frankfoerster/grunt-browserify-bower-resolve
+ * https://github.com/frankfoerster/grunt-browserify-resolve
  *
  * Copyright (c) 2015 Frank Förster
  * Licensed under the MIT license.
