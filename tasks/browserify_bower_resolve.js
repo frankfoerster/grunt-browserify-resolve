@@ -19,7 +19,8 @@ function Task (grunt) {
     var options = this.options({
       banner: '',
       vendorOnly: this.data.vendorOnly || false,
-      require: this.data.require || false
+      require: this.data.require || false,
+      external: this.data.external || false
     });
 
     if (options.vendorOnly === true) {
